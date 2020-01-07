@@ -66,7 +66,7 @@ social_links = [
     },
     {
         "name": "GitHub",
-        "url": "https://github.com/AlanDecode",
+        "url": "https://github.com/XTM233",
         "icon": "gi gi-github"
     },
     {
