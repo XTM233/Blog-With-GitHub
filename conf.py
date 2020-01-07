@@ -14,8 +14,8 @@ template = {
     "path": "../Galileo"
 }
 enable_jsdelivr = {
-    "enabled": False,
-    "repo": ""
+    "enabled": True,
+    "repo": ""XTM233/Blog-With-GitHub-Boilerplate@gh-pages""
 }
 
 # 站点设置
@@ -25,7 +25,7 @@ site_build_date = "2019-12-18T16:51+08:00"
 author = "小透明233"
 email = "1134895657@qq.com"
 author_homepage = "https://www.xtm233.github.io"
-description = "没有悲观的权利"
+description = "我们没有悲观的权利"
 key_words = ['Maverick', '熊猫小A', 'Galileo', 'blog']
 language = 'zh-CN'
 external_links = [
